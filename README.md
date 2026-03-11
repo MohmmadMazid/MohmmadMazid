@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohmmad Mazid
-**A passionate MERN Stack Developer + next.js developer || Frontend Developer || Backend Developer.**
+**A passionate MERN Stack Developer + Next.js developer || Frontend Developer || Backend Developer.**
 
 Email Me 👉 ✉️ **mohmmadmazid5500@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
