@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **mohmmadmazid5500@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** E-commerce website 
-- 🌱 **I’m currently learning:** Next.js
+- 🌱 **I’m good in :** React.js & Next.js
 - 👯 **I’m looking to collaborate on:** Full stack project like e-commerce app and real time chat application and video application
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mohmmadmazid5500@gmail.com
